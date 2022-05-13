@@ -1,0 +1,19 @@
+.row {
+  margin: 40px;
+}
+
+.col-sm-6 {
+  display: flex;
+  align-items: stretch;
+  padding: 25px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 25px;
+}
+.btn {
+  max-width: 200px;
+}
